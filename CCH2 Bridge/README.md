@@ -1,0 +1,1 @@
+Nesse caso o problema é o uso de controle remoto de diferentes dispositivos e diferentes tipos de controle remoto.
